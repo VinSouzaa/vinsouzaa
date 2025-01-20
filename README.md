@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá! Hello!  
 
-<!--
-**VinSouzaa/vinsouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 **Education & Early Career**  
+I started my journey at the *Instituto Federal de Ciência e Tecnologia (IFSP)*, where I completed a **Technical Degree in Industrial Automation** integrated with high school. This program introduced me to exciting fields like **electricity**, **electronics**, **programming**, and **pneumatics**. 🚀  
 
-Here are some ideas to get you started:
+🔭 During this time, I volunteered for a **scientific initiation project** in **Radio Astronomy** and developed experimental guides to encourage this practice.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I also completed **two internships** in the fields of **maintenance** and **production of electronic equipment**, gaining hands-on experience in:  
+- Preventive and corrective maintenance of electronic equipment.  
+- Sensor parameter calibration and verification.  
+- Reading and interpreting electrical diagrams.  
+- Preparing technical reports.  
+
+---
+
+🎓 **Higher Education & Current Studies**  
+Currently, I am studying **Biomedical Informatics** at the *University of São Paulo (USP)*. 🧬💻 This program combines **informatics** and **programming** with **biological sciences**, perfectly aligning with my passion for innovation and problem-solving.  
+
+🔬 I’m involved in a **scientific initiation project** focused on **genomic sequencing of parasites**, which aligns with my growing interest in **bioinformatics** and **data analysis**.  
+
+---
+
+🎯 **Future Goals**  
+- 🌍 Study abroad and grow academically and professionally.  
+- 🔬 Deepen my expertise in **bioinformatics** and **data analysis**.  
+- 🚀 Bridge the gap between technology and biological sciences while contributing to impactful projects.  
+- 💡 Potentially start my own business to help solve real-world challenges.  
+
+---
+
+Thanks for stopping by! Feel free to connect with me here. 😊
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  </div>
