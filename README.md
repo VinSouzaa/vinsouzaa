@@ -5,12 +5,6 @@ I started my journey at the *Instituto Federal de Ciência e Tecnologia (IFSP)*,
 
 🔭 During this time, I volunteered for a **scientific initiation project** in **Radio Astronomy** and developed experimental guides to encourage this practice.  
 
-💼 I also completed **two internships** in the fields of **maintenance** and **production of electronic equipment**, gaining hands-on experience in:  
-- Preventive and corrective maintenance of electronic equipment.  
-- Sensor parameter calibration and verification.  
-- Reading and interpreting electrical diagrams.  
-- Preparing technical reports.  
-
 ---
 
 🎓 **Higher Education & Current Studies**  
