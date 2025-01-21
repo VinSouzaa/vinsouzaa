@@ -30,5 +30,6 @@ Thanks for stopping by! Feel free to connect with me here. 😊
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   </div>
 
+ <p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinsouzaa&show_icons=true&locale=en&layout=compact" alt="vinsouzaa" /></p></p>
 
 
